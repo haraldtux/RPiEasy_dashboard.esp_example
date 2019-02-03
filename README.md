@@ -20,7 +20,7 @@ Do you want to let the page automatically refresh,
 * copy one of the files from the `dashboard-1` or `dashboard-2` in the **/rpieasy/files** directory.
 
 I think you also need :
-* ** Unit Name:** and **Unit Number:**
+* **Unit Name:** and **Unit Number:**
 <img src="schreenshot/config-1.png" width="480">
 * **ESPEasy P2P** Protocol and a Controller Port. 
 <img src="schreenshot/config-2.png" width="480">
