@@ -22,5 +22,8 @@
 <tr><td>Wifi:<td>
 <td>
 <td>%ssid%  %rssi% dB
+<tr><td>CPU:<td>
+<td>Temperature
+<td>[System_info#CPU_Temp] *C
 <tr><td><td>
 </HTML>
