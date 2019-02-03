@@ -1,0 +1,34 @@
+<meta name="viewport" content="width=width=device-width, initial-scale=1">
+
+<STYLE>
+* {font-family:sans-serif; font-size:14pt;}
+.button {margin:4px; padding:4px 16px; background-color:#c80a41; color:#FFF; text-decoration:none; border-radius:4px}
+</STYLE>
+<HTML>
+<br><br>
+<table>
+<tr><td>Name:<td>
+<td>
+<td><font color="#c80a41">%sysname%
+<tr><td>Time:<td>
+<td>
+<td><font color="#c80a41">%systime%
+<tr><td>Date:<td>
+<td>
+<td><font color="#c80a41">%sysweekday_s%, %sysday%-%sysmonth%-%sysyear%
+<tr><td>Uptime:<td>
+<td>
+<td><font color="#c80a41">%c_m2dhm%(%uptime%)
+<tr><td>Wifi:<td>
+<td>
+<td><font color="#c80a41">%ssid%  %rssi%</font> <font color="#999999">dB
+<td>
+<tr><td>CPU:<td>
+<td><font color="#999999">Temperature
+<td><font color="#c80a41">[System_info#CPU_Temp]</font> <font color="#999999"><font color="#999999">*C
+<tr><td>Oled:<td>
+<td>
+<td><a class='button link' href="dashboard.esp?cmd=OLEDCMD,on">On</a>
+<a class='button link' href="dashboard.esp?cmd=OLEDCMD,off">Off</a>
+<tr><td><td>
+</HTML>
