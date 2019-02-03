@@ -25,7 +25,7 @@
 <td>
 <tr><td>CPU:<td>
 <td><font color="#999999">Temperature
-<td><font color="#c80a41">[System_info#CPU_Temp]</font> <font color="#999999"><font color="#999999">*C
+<td><font color="#c80a41">[System_info#CPU_Temp]</font> <font color="#999999">*C
 <tr><td>Oled:<td>
 <td>
 <td><a class='button link' href="dashboard.esp?cmd=OLEDCMD,on">On</a>
