@@ -18,6 +18,7 @@ Do you want to let the page automatically refresh,
 
 ## Getting started: ##
 * copy one of the files from the `dashboard-1` or `dashboard-2` in the **/rpieasy/files** directory.
+
 I think you also need :
 * ** Unit Name:** and **Unit Number:**
 <img src="schreenshot/config-1.png" width="480">
